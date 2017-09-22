@@ -25,7 +25,7 @@ I'm open to contributions and comments.
 | type spread operator | [work in progress](https://github.com/Microsoft/TypeScript/pull/13470) | [shipped](https://github.com/facebook/flow/commit/ad443dc92879ae21705d4c61b942ba2f8ad61e4d) >=0.42 |
 | ecosystem flexibility | [work in progress](https://github.com/Microsoft/TypeScript/issues/6508) | no extensions |
 | programmatic hooking | architecture prepared, work in progress | work in progress |
-| documentation and resources | <ul><li>very good docs</li><li>many books</li><li>videos</li><li>e-learning resources</li></ul> | <ul><li>incomplete, often vague docs</li><ul> |
+| documentation and resources | <ul><li>very good docs</li><li>many books</li><li>videos</li><li>e-learning resources</li></ul> | <ul><li>very good docs</li><li>less external learning resources</li><ul> |
 | error quality | good | good in some, vague in other cases |
 | transparency | meeting notes, leadership reasoning and roadmap happens mostly publicly | low transparency, roadmap developed behind closed doors |
 | commercial support | no | no |
